@@ -35,7 +35,7 @@ No momento estou estudando para certificação CKA (Certified Kubernetes Adminis
 
 Technology enthusiastic about challenges and continuous learning of new technologies, I graduated in Information Systems and currently work in the Brazilian Air Force (DTCEATM-RJ).
 
-I compose the time to deploy the infrastructure of new products, managing stages of planning, deployment, testing and maintenance in production environments, supported by project management based on agility, without a framework of concepts of the tools brought by DevOps and reliable engineering .
+I compose deploy's infrastructure team of new products, managing stages planning, deployment, testing and maintenance production environments, supported by project management based on agility, DevOps and reliable engineering.
 
 I work with the entire provisioning process for creating virtual machines in VMWARE with the tools: PACKER, TERRAFORM, ANSIBLE, GITLAB, DOCKER, CI / CD, program and update IaC codes.
 
