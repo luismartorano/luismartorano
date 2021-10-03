@@ -18,18 +18,34 @@
 </a>
 
 *
+#### Portuguese
 
 Aficionado em tecnologia, entusiasta em desafios e no aprendizado contínuo de novas tecnologias, sou formado em Sistemas de Informação (Analise de Sistemas) e trabalho atualmente na Força Aérea Brasileira (DTCEATM-RJ).
 
 Componho o time de implantação da infraestrutura de novos produtos, gerenciando etapas de planejamento, implantação, teste e manutenção nos ambientes de produção, apoiado nas metodologias de gestão de projetos baseadas em agilidade, no arcabouço de conceitos das ferramentas trazidas pelo DevOps e a engenharia de confiabilidade.
 
-TRabalho com todo processo de provisionamento para criação de máquinas virtuais no VMWARE com as ferramentas: PACKER, TERRAFORM, ANSIBLE, GITLAB, DOCKER,  CI/CD, programar e atualizar os códigos IaC.
+Trabalho com todo processo de provisionamento para criação de máquinas virtuais no VMWARE com as ferramentas: PACKER, TERRAFORM, ANSIBLE, GITLAB, DOCKER,  CI/CD, programar e atualizar os códigos IaC.
 
 No momento estou estudando para certificação CKA (Certified Kubernetes Administrator) e AWS Certified Solutions Architect - Associate.
 
+###  
+
+
+#### English
+
+Technology enthusiastic about challenges and continuous learning of new technologies, I graduated in Information Systems and currently work in the Brazilian Air Force (DTCEATM-RJ).
+
+I compose the time to deploy the infrastructure of new products, managing stages of planning, deployment, testing and maintenance in production environments, supported by project management based on agility, without a framework of concepts of the tools brought by DevOps and reliable engineering .
+
+I work with the entire provisioning process for creating virtual machines in VMWARE with the tools: PACKER, TERRAFORM, ANSIBLE, GITLAB, DOCKER, CI / CD, program and update IaC codes.
+
+I am currently studying for CKA certification (Kubernetes Certified Administrator) and AWS Certified Solution Architect - Associate.
+
+###  
 
 ![Luismartorano GitHub Stats](https://github-readme-stats.vercel.app/api?username=luismartorano&show_icons=true)
 
+###  
 
 ## SKILLS DEVOPS:
 
